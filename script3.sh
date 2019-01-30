@@ -6,7 +6,7 @@ for file in $dir
 do
 if [ -d "$file" ]
 then
-echo "$file - директория(папка)"
+echo "$file - директория(папкаа)"
 elif [ -f "$file" ]
 then
 echo "$file - файл"
