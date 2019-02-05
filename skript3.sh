@@ -1,6 +1,6 @@
 #! /bin/bash
 
-dir=/Users/*
+dir=`pwd`
 
 for file in $dir
 do
