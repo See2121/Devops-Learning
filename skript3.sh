@@ -1,6 +1,6 @@
 #! /bin/bash
 
-dir=/Users/*
+dir=/test/*
 
 for file in $dir
 do
